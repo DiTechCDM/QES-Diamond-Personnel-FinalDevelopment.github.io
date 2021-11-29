@@ -139,7 +139,7 @@ body, html {
 }
 
 .dropdown-menu[data-bs-popper] {
-    margin-top: 0.8rem;
+    margin-top: 1.5rem;
 }
 
 .dropdown-toggle::after {
@@ -238,6 +238,9 @@ body, html {
 
     .hr-wrapper {
         padding: 0px 37px !important;
+    }
+    .dropdown-menu[data-bs-popper] {
+        margin-top: 0.90rem;
     }
 }
 
